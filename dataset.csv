@@ -1,0 +1,16 @@
+CustomerID	ProductID	ProductName	Rating
+1	101	Smartphone	5
+1	102	Fiction Book	4
+2	103	Shirt	5
+3	104	Laptop	3
+1	105	Tab	5
+1	106	Novels	4
+2	107	Jackets	5
+3	101	Smartphone	1
+4	105	Tab	4
+5	107	Jackets	3
+2	107	Jackets	4
+6	101	Smartphone	2
+4	105	Tab	5
+6	107	Jackets	4
+
